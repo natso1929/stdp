@@ -18,7 +18,7 @@
 
 克隆完整项目
 ```git
-git clone https://github.com/cs001020/hmdp.git
+git clone https://github.com/t1ostang/stdp.git
 ```
 
 在使用本项目前，请在MySQL中**新建‘stdp’数据库**，然后执行sql文件夹下的sql文件，**生成对应的表**
