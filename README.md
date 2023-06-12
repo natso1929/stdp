@@ -1,6 +1,7 @@
 <div align="center">
-<b>基于 Spring Boot 的本地生活点评后端项目</b>
+<h3>基于 Spring Boot 的本地生活点评后端项目</h3>
 </div>
+
 
 <div align="center">
 <img src="https://img.shields.io/badge/Java-1.8-orange"/>
@@ -9,14 +10,24 @@
 <img src="https://img.shields.io/badge/-Hutoll-brightgreen"/>
 <img src="https://img.shields.io/badge/-Redis-blue"/>
 </div>
-
 ## 项目简介
 
 // TODO
 
+## 项目架构
+
+单机架构
+
+![image-20230218114015305](assets/image-20230218114015305.png)
+
+集群架构
+
+![image-20230219102303321](assets/image-20230219102303321.png)
+
 ## 如何使用本项目
 
 克隆完整项目
+
 ```git
 git clone https://github.com/t1ostang/stdp.git
 ```
