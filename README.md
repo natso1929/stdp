@@ -35,19 +35,8 @@ git clone https://github.com/cs001020/hmdp.git
 
 
 
-## 1.下载
-
-克隆完整项目
-```git
-git clone https://github.com/cs001020/hmdp.git
-```
-切换分支
-```git
-git checkout init
-```
-
-## 2.常见问题
-部分同学直接使用了master分支项目来启动，控制台会一直报错:
+## 常见问题
+启动项目时，控制台可能会一直报错:
 ```
 NOGROUP No such key 'stream.orders' or consumer group 'g1' in XREADGROUP with GROUP option
 ```
